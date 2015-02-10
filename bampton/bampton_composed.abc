@@ -63,6 +63,26 @@ P:B
 ddd | G2 G B2 BBB | A2 A c2 ccc | F2 F A2 AAA | G2 G B2 ddd |
 G2 G B2 BBB | A2 A c2 ccc | B2 BB A2 AA | G2 G G2 |]
 
+X:1
+T:The Italian Job (Bampton)
+M:4/4
+L:1/8
+C:Rod Stradling
+N:Tune picked up by the Bampton team (Francis Shergold's team) on a tour 
++: they made in Italy some years ago. ~ Michael Blanford, 10 August 1993
+O:England; Oxfordshire; Bampton.
+R:Reel
+P:A(AB)4
+K:G
+P:A
+BcBA G2 g3/ d/ | eged c3 e | d2 de dcBA | BAGA B2-B2 | 
+BcBA G2 g3/ d/ | eged c3 e | d2 de dcBA | BcBA G2-G2 |]
+P:B
+GBdB GBdB | c2 A2 A3 e | d2 de dcBA | B2 G2 G2-G2 | 
+GBdB GBdB | c2 A2 A3 e | d2 de dcBA | B2 G2 G2-G2 |
+A2 AF D2 DF | ABAF E3 F | G2 GF E2 A2 | F3 E D2-D2 |
+A2 AF D2 DF | ABAF E3 F | G2 GF E2 A2 | F3 E D2-D2 |]
+
 X:5
 T:John Barleycorn (Bampton) (Binghamton)
 T:John Barleycorn Is A Hero Bold
