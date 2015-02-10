@@ -1,0 +1,198 @@
+X:1
+T:Binghamton Stick Dance (Bampton) (Binghamton)
+T:The Cuckoo's Nest
+M:2/2
+S:Binghamton MM
+O:England; Oxfordshire; Bampton.
+R:Hornpipe
+P:A(AB2)4C
+K:G
+P:A
+c>dc>B A2 a2 | e2 e2 d2 z>c | B>cB>A G2 A>B | c2 d2 A4 :|
+P:B
+a2 a2 a2 b>a | ^g2 e2 e3 f | g2 g2 g2 a>g | g2 d2 d4 |
+c>dc>B A2 a2 | e2 e2 d2 z>c | B>cB>A G2 A>B | c2 d2 A4 |]
+P:C
+K:A
+c>dc>B A2 a2 | c>dc>B A2 a2 | c>dc>B A>^GA>B | c2 A2 A4 :|
+
+X:1
+T:Eynsham Poacher (Bampton) (Binghamton)
+M:6/8
+S:Binghamton MM
+H:Dance composed by Steve Woodruff.
+O:England; Oxfordshire; Bampton.
+K:G
+A | \
+B2B Bcd | G2G G2D | G2G GAB | A2d d3 |
+e2f gfe | d2B d2B | A2B cBA | B2c d3 |]
+BGG G3  | cAA A3  | Bcd edc | BcA G3 |
+BGG G3  | cAA A3  | Bcd edc | BcA G2 |]
+
+X:1
+T:Erie Canal Stick Dance (Bampton) (Thornden)
+M:4/4
+O:England; Oxfordshire; Bampton.
+R:Hornpipe
+P:A(ABC)4
+K:G
+P:A
+GF | E2 E2 GF G2 | AG A2 B4 | B2 B2 B2 EF | GE F2 E2 B2 |
+E2 E2 GF G2 | AG A2 B4 | B2 B2 B2 EF | GE F2 E2 |]
+P:B
+B2 | d2 B2 d2 B2 | d2 B2 A2 GA | B2 G2 B2 G2 | B2 G2 F2 GF |
+E2 E2 GF G2 | AG A2 B4 | B2 B2 B2 EF | GE F2 E2 |]
+P:C
+z2 | B4 B4 | BGBG A4 | B4 B2 GA | BGAF G2 Bc |
+dddB cc c2 | dddB c2 AA | BB BG cc cA | BG AF G2 |]
+
+X:16
+T:Island Mary (Bampton) (Bouwerie)
+T:Jamaica Farewell
+M:4/4
+N:A substitute for Highland Mary
+H:This substitution originated during the Marlboro Ale (probably 1980)
++:on tour with Newtowne Morris and Bouwerie Boys in Wyndham County.
+O:England; Oxfordshire; Bampton.
+P:A(AB2)4
+K:G
+P:A
+z3 | d2 d d2 ddd | e2 f g2 gfe | d2 dd c2 cc | B2 c d2 GBd |
+d2 d d2 ddd | e2 f g2 gfe | d2 dd c2 cc | B2 A G2 |]
+P:B
+ddd | G2 G B2 BBB | A2 A c2 ccc | F2 F A2 AAA | G2 G B2 ddd |
+G2 G B2 BBB | A2 A c2 ccc | B2 BB A2 AA | G2 G G2 |]
+
+X:1
+T:John Barleycorn (Bampton) (Binghamton)
+T:John Barleycorn Is A Hero Bold
+M:4/4
+S:Binghamton MM
+O:England; Oxfordshire; Bampton.
+R:Reel
+P:A(ABC)4
+M:4/4
+L:1/4
+K:G
+Q:150
+P:A
+d | g g (f/e/) d | e e (d/c/) B | B>c B A | G3 d |
+g g (f/e/) d | e e (d/c/) B | B>c B A | G3 |]
+P:B
+G | A B ^c A | d e f2 | g g f e | d3 d |
+g g(f/e/) d | e e (d/c/) B | B>c B A | G3 |]
+P:C
+z | g2 g2 | f e d2 | e2 e2 | d c B2 |
+G A B c | d e f2 | g2 (f/e/) f | g3 |]
+
+X:1
+T:John Peel (Bampton) (Binghamton)
+M:4/4
+S:Binghamton MM
+H:Dance composed by Steve Woodruff.
+O:England; Oxfordshire; Bampton.
+R:Reel
+P:A(AB)4
+K:G
+P:A
+BA|G2G2 g2ge| dedc B2AG| A2A2 e2AB| cdcA F2 BA|
+G2G2 g2d2| efge d2Bd| e2cA GABc| A4 G2|]
+P:B
+Bc|d2dc B2Bc| dedc B2AB| c2cB A2AB| cdcA F2 BA|
+G2G2 g2d2| efge d2Bd| e2cA GABc| A4 G2|]
+
+X:1
+T:Rigs of Doom (Bampton) (Utrecht)
+M:C
+L:1/4
+S:Utrecht MM (Holland)
+C:Frans Tromp
+O:England; Oxfordshire; Bampton.
+K:G
+%
+P:A
+A/ | B/A/ G/F/ G D | E/F/ G/E/ D2 | E/F/ G/E/ D/G/ A/B/ | B/A/ G/B/ A>B |
+B/A/ G/F/ G D | E/F/ G/E/ D2 | E/F/ G/A/ A3/2 G/4F/4 | G2 G3/2 |]
+%
+P:B
+A/ | B/c/ B/G/ A A | G/A/ G/E/ F2 | G B c>B | A/G/ F/E/ D>B |
+c/d/ e/c/ d B | c/d/ e/c/ B2 | c>A B/A/ G/B/ | A F G |]
+%
+P:C
+B/d/ | e e B2 | c/B/ A/c/ B2 | c/B/ A/c/ B/A/ G/B/ | A/G/ F/G/ A>d |
+e e B2 | c/B/ A/c/ B2 | c/B/ A/c/ B/A/ G/B/ | A/D/ E/F/ G3/2 |]
+
+X:1
+T:The Royton (Sullivan's Glenn) (Bampton) (Binghamton)
+T:Tip Top Polka
+M:4/4
+S:Binghamton MM
+H:Dance composed by John Dexter with Steve Woodruff in 1977.
+O:England; Oxfordshire; Bampton.
+R:Polka
+P:A(AB2)4
+K:G
+P:A
+B>c|d2 d2 d2   e2|B2 B2 B2 G>A|B2  B2 B>c d2|A6A>B|
+    c2 c2 c>d c>B|A2 A2 A3   B|c>B A>G F2 d2|G6  ||
+P:B
+e>f|g2 e2 e>d e>f|g2 d2 B4    |c2  c>B A2G>G|d6e>f|
+    g2 e2 c2  e>f|g2 d2 B4    |c>B A>G F2 d2|G6  |]
+%
+W: Oh Glen-n-n, In an hour, I'd like a Glennburger, please.
+W: With tomatoes and lettuce, pickles and onions and cheese.
+
+X:1
+T:Simon's Fancy (Bampton) (Lemon & Capers)
+T:The Forester
+M:6/8
+L:1/8
+S:Lemon & Capers Morris
+H:Dance composed by Jocelyn Reynolds in 1991.
+O:England; Oxfordshire; Bampton.
+R:jig
+Q:3/8=104
+P:A(A2B2)4
+K:D
+P:A
+G>F | E2 B2 B>G (3AGF | E2 E2 d3 e | d3 B A3 F | E2 E2 E2 |]
+P:B
+z2 | B>cd>B e2 e2 | B>c (3dcB e2 B>c | d2 d2 c2 c2 | B>c B>A F2 G>F |
+E2 B2 B>G (3AGF | E2 E2 d3 e | d3 B A3 F | E2 E2 E2 |]
+
+X:1
+T:Yankee Doodle Stick Dance (Bampton) (Binghamton)
+M:4/4
+S:Binghamton MM
+O:England; Oxfordshire; Bampton.
+R:Jig
+P:A(AB)3CD
+K:D
+P:A
+ddef df e2 | ddef d2 c2 | ddef gfed | cABc d2 d2 |]
+P:B
+B>cBA Bc d2 | A>BAG F2 A2 | B>cBA BcdB | Adce d2 d2 :|
+P:C
+"alternate played on rounds and last chorus" \
+ffga agfe | ddef f2 ee | ffga agfe | ddef e2 dd |]
+P:D
+e>efd ef/g/ fd | ef/g/ fe de A2 | ffga agfe | ddef e2 dd :|
+
+X:1
+T:Year of Jubilo (Bampton) (Binghamton)
+M:2/4
+L:1/8
+S:Binghamton MM
+O:England; Oxfordshire; Bampton.
+R:Jig
+P:A(AB)4
+Q:100
+K:D
+P:A
+F/E/ | DF FA | Af f/e/d/B/ | AF/A/ dF | E3 F/E/ |
+DF FA | Af f/e/d/B/ | Ad e>c | d3 :|
+P:B
+A | B>A Bc | d>e dc | AF/A/ dF | E3 F/E/ |
+DF FA | Af f/e/d/B/ | Ad e>c | d3 :|
+
+
