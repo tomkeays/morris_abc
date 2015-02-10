@@ -1,6 +1,6 @@
 # Morris Dance Tunes
 
-The purpose here is to have a repo of tunes that I can maintain locally on my laptop and easily share via my repo. 
+The purpose here is to have a collection of morris tunes that I can maintain locally on my laptop and easily share via my repo. 
 
 The starting point will be the source files from [Lionel Bacon's "Handbook of Morris Dances"](http://www.themorrisring.org/music/handbook-morris-dances) as those are the canonical versions of the tunes, but I will also notate local variations to the traditional tunes and add tunes for composed dances. Note: I’m updating all the abc files, including those derived from Bacon, to comply with [abc standard v2.1](http://abcnotation.com/wiki/abc:standard:v2.1).
 
