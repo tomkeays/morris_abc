@@ -63,7 +63,7 @@ P:B
 ddd | G2 G B2 BBB | A2 A c2 ccc | F2 F A2 AAA | G2 G B2 ddd |
 G2 G B2 BBB | A2 A c2 ccc | B2 BB A2 AA | G2 G G2 |]
 
-X:1
+X:5
 T:The Italian Job (Bampton)
 M:4/4
 L:1/8
@@ -83,7 +83,7 @@ GBdB GBdB | c2 A2 A3 e | d2 de dcBA | B2 G2 G2-G2 |
 A2 AF D2 DF | ABAF E3 F | G2 GF E2 A2 | F3 E D2-D2 |
 A2 AF D2 DF | ABAF E3 F | G2 GF E2 A2 | F3 E D2-D2 |]
 
-X:5
+X:6
 T:John Barleycorn (Bampton) (Binghamton)
 T:John Barleycorn Is A Hero Bold
 M:4/4
@@ -105,7 +105,7 @@ P:C
 z | g2 g2 | f e d2 | e2 e2 | d c B2 |
 G A B c | d e f2 | g2 (f/e/) f | g3 |]
 
-X:6
+X:7
 T:John Peel (Bampton) (California)
 M:4/4
 S:Binghamton MM
@@ -121,7 +121,7 @@ P:B
 Bc|d2dc B2Bc| dedc B2AB| c2cB A2AB| cdcA F2 BA|
 G2G2 g2d2| efge d2Bd| e2cA GABc| A4 G2|]
 
-X:7
+X:8
 T:Rigs of Doom (Bampton) (Utrecht)
 M:C
 L:1/4
@@ -139,7 +139,7 @@ P:C
 B/d/ | e e B2 | c/B/ A/c/ B2 | c/B/ A/c/ B/A/ G/B/ | A/G/ F/G/ A>d |
 e e B2 | c/B/ A/c/ B2 | c/B/ A/c/ B/A/ G/B/ | A/D/ E/F/ G3/2 |]
 
-X:8
+X:9
 T:The Royton (Sullivan's Glenn) (Bampton) (Binghamton)
 T:Tip Top Polka
 M:4/4
@@ -159,7 +159,7 @@ e>f|g2 e2 e>d e>f|g2 d2 B4    |c2  c>B A2G>G|d6e>f|
 W: Oh Glen-n-n, In an hour, I'd like a Glennburger, please.
 W: With tomatoes and lettuce, pickles and onions and cheese.
 
-X:9
+X:10
 T:Simon's Fancy (Bampton) (Lemon & Capers)
 T:The Forester
 M:6/8
@@ -177,7 +177,7 @@ P:B
 z2 | B>cd>B e2 e2 | B>c (3dcB e2 B>c | d2 d2 c2 c2 | B>c B>A F2 G>F |
 E2 B2 B>G (3AGF | E2 E2 d3 e | d3 B A3 F | E2 E2 E2 |]
 
-X:10
+X:11
 T:Yankee Doodle Stick Dance (Bampton) (Binghamton)
 M:4/4
 S:Binghamton MM
@@ -195,7 +195,7 @@ ffga agfe | ddef f2 ee | ffga agfe | ddef e2 dd |]
 P:D
 e>efd ef/g/ fd | ef/g/ fe de A2 | ffga agfe | ddef e2 dd :|
 
-X:11
+X:12
 T:Year of Jubilo (Bampton) (Binghamton)
 M:2/4
 L:1/8
