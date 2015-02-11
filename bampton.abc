@@ -47,7 +47,7 @@ P:B
 defd|cd   e2| Bcde/d/|cBAB/c/|
 dAFD|G/A/BA2| B/c/dce|d2d2   ||
 
-X:4
+X: 4
 T:Binghamton Stick Dance (Bampton) (Binghamton)
 T:The Cuckoo's Nest
 M:2/2
@@ -76,10 +76,10 @@ P:A(AB2)4
 K:A
 P:A
 EA2B c2d |e2a  a>ec|{e}d>cB e>cB|A2G F2E |
-A2B c2d |e2a  a>ec|   d>cB BeG |A3  A2  ||
+A2B c2d  |e2a  a>ec|   d>cB BeG |A3  A2  ||
 P:B
 c/e/|f2B B>cd|e>cA A>Bc| d2B c2A|B2G E>cd|
-e2c d>cB|c>BA B>cd|e>cA B2G|A3 A2||
+     e2c d>cB|c>BA B>cd|e>cA B2G|A3 A2   ||
 
 X: 6
 T:Bonny Green Garters (Bampton)
@@ -103,13 +103,13 @@ Z:http://www.themorrisring.org/music/handbook-morris-dances
 P:A(AB2)4
 K:G
 P:A
-D2|G2Bc d2ef |g2dc BAG2|Bcd2 e2f2 |g4 f2ag|
-e2dc (3BcBA2|B2G2 E3 G|FGAF D2(3DEF|G4 G2||
+D2|G2Bc d2ef    |g2dc BAG2|Bcd2 e2f2   |g4 f2ag|
+    e2dc (3BcBA2|B2G2 E3 G|FGAF D2(3DEF|G4 G2  ||
 P:B
 Bc|d2B2   dcAB |c2E2 GFD2|G3 F GABc   |dedc B2gf|
-e2dc (3BcBA2|B2G2 E3 G|FGAF D2(3DEF|G4 G2||
+   e2dc (3BcBA2|B2G2 E3 G|FGAF D2(3DEF|G4 G2    ||
 
-X:8
+X: 8
 T:Constant Billy (Bampton)
 S:CJS
 O:England; Oxfordshire; Bampton.
@@ -141,9 +141,9 @@ P:B
 |:G2c2 c2e2 |dedc B2Bc |d2G2 A2c2|B3A  G4 :|
 P:C
 g2g2 e<fd2|g2g2 e<fd2|g2gf e2a2|f2e2 d2Bc|
-d2gf e2e2 |dedc B2Bc |d2G2 A2c2|B3A  G4 ||
+d2gf e2e2 |dedc B2Bc |d2G2 A2c2|B3A  G4  ||
 
-X:10
+X: 10
 T:Eynsham Poacher (Bampton) (California)
 M:6/8
 S:Binghamton MM
@@ -156,7 +156,7 @@ e2f gfe | d2B d2B | A2B cBA | B2c d3 |]
 BGG G3  | cAA A3  | Bcd edc | BcA G3 |
 BGG G3  | cAA A3  | Bcd edc | BcA G2 |]
 
-X:11
+X: 11
 T:Erie Canal Stick Dance (Bampton) (Thornden)
 M:4/4
 S:Thornden Morris
@@ -262,6 +262,20 @@ P:B
 B/c/|d2d ded|cAF D>EF|GAB cde|dcB A2D|G>GG FGA|BAG A>Bc|dBd cAF|G3G2|
 
 X: 17
+T:Furze Field, The (Bampton) (Michael Blandford)
+M:6/8
+O:England; Oxfordshire; Bampton.
+R:Jig
+P:A(AB2)4
+K:G
+P:A
+D | G>GG FGA | BAG A>Bc | dBd cAF | G3- G2 D |
+G>GG FGA | BAG ABc | dBd cAF | G3- G2 |]
+P:B
+B/2c/2 | ded dBG | AFE D2 B/c/ | ded dBA | G3 F2D |
+G>GG FGA | BAG A>Bc | dBd cAF | G3- G2 |]
+
+X: 18
 T:Glorishears (Bampton)
 M:2/2
 L:1/8
@@ -276,7 +290,7 @@ P:B
   d4 c3 d|B2e2 A4|d2cB A2GF|G2B2 E2FE|
   DEFG A2A2|B2c2 d2cd|e2(3ABc d2c2|B4 A4  ||
 
-X: 18
+X: 19
 T:Highland Mary (Bampton)
 M:4/4
 L:1/8
@@ -291,7 +305,7 @@ P:B
   ABcd e2e2|feec (3ded cB|e2ef edcB| ABcA E3F/G/|
   A2BA GFE2|A2Bc d2cd |e2ef edcB| A2G2 A4 ||
 
-X:19
+X: 20
 T:Island Mary (Bampton) (Bouwerie)
 T:Jamaica Farewell
 M:4/4
@@ -308,7 +322,7 @@ P:B
 ddd | G2 G B2 BBB | A2 A c2 ccc | F2 F A2 AAA | G2 G B2 ddd |
 G2 G B2 BBB | A2 A c2 ccc | B2 BB A2 AA | G2 G G2 |]
 
-X:20
+X: 21
 T:Italian Job, The (Bampton)
 M:4/4
 L:1/8
@@ -328,7 +342,7 @@ GBdB GBdB | c2 A2 A3 e | d2 de dcBA | B2 G2 G2-G2 |
 A2 AF D2 DF | ABAF E3 F | G2 GF E2 A2 | F3 E D2-D2 |
 A2 AF D2 DF | ABAF E3 F | G2 GF E2 A2 | F3 E D2-D2 |]
 
-X: 21
+X: 22
 T:Jenny Lind (Bampton) (EDS1)
 M:2/4
 L:1/16
@@ -346,7 +360,7 @@ K:G
 g2f2 egfe|d2B2 B2AB|c2A2 A2GA|B2G2 G2AG|
 g2f2 egfe|d2B2 B2AB|c2A2 AcBA|G2B2 G4  ||
 
-X: 22
+X: 23
 T:Jenny Lind (Bampton) (EDS Alt)
 M:2/4
 L:1/16
@@ -366,7 +380,7 @@ L:1/8
 Q:360
 |:Bc|d2B2 BdcB|A2F2 F2EF|G2E2 EGFE|E2D2 D2:||
 
-X: 23
+X: 24
 T:Jenny Lind (Bampton) (RD)
 M:4/4
 L:1/8
@@ -381,7 +395,7 @@ B2dB c2(3efe|d2b2 bab2|c'2a2 fgaf   |g2b2 g4  ||
 P:B
 |:g2e2 egfe |d2B2 BcdB|c2A2 ABcA|1B2G2 B2d2:|2G2B2 G4||
 
-X: 24
+X: 25
 T:Jogging to the Fair (Bampton)
 M:6/8
 L:1/8
@@ -408,7 +422,7 @@ A>GA|\
 M:6/8
 B>cd e>fg|  f>af d2g|{fg}f>cB AB^c|d3 d2||
 
-X:25
+X: 26
 T:John Barleycorn (Bampton) (Binghamton)
 T:John Barleycorn Is A Hero Bold
 M:4/4
@@ -430,7 +444,7 @@ P:C
 z | g2 g2 | f e d2 | e2 e2 | d c B2 |
 G A B c | d e f2 | g2 (f/e/) f | g3 |]
 
-X:26
+X: 27
 T:John Peel (Bampton) (California)
 M:4/4
 S:Binghamton MM
@@ -446,7 +460,7 @@ P:B
 Bc|d2dc B2Bc| dedc B2AB| c2cB A2AB| cdcA F2 BA|
 G2G2 g2d2| efge d2Bd| e2cA GABc| A4 G2|]
 
-X: 27
+X: 28
 T:Johnny's So Long at the Fair (Bampton) (BC)
 T:Oh Dear, What Can the Matter Be (Bampton) (BC)
 M:6/8
@@ -463,7 +477,7 @@ P:B
 B/c/|ded dBc|dge dBG|cAB cAB|cAB cBA|
 dBc dBc|dge dBG|AcB AGF|G3  G2 ||
 
-X: 28
+X: 29
 T:Johnny's So Long at the Fair (Bampton) (ALP)
 T:Oh Dear, What Can the Matter Be (Bampton) (ALP)
 M:6/8
@@ -481,7 +495,7 @@ P:B
 z|d>ed d>Bc|d>ge d>BG|{cd}c2c {cd}c>Ac|c>AB c>BA|
 d>ed d>Bc|d>ge d>BG|A>cB A>GF|G3 G2||
 
-X: 29
+X: 30
 T:Lumps of Plum Pudding (Bampton)
 M:6/8
 L:1/8
@@ -497,7 +511,7 @@ P:B
 d|B>dg B>dg|d>cd G2 B|A>ce A>ce|B>dB G2d|
 B>dg B>dg|d>ef g>dB|c>AF G>Bc|d2 B G2 ||
 
-X: 30
+X: 31
 T:Maid of the Mill (Bampton)
 M:6/8
 L:1/8
@@ -513,7 +527,23 @@ P:B
 c/d/|e>fe e>ga|d>Bc d>ed|B>cd e>fe|A3 G>FE|
 A>GA c>BA|B>cd e>cA|E>dc B>AG|A3 A2 ||
 
-X: 31
+X:32
+T:Maid of the Mill (Bampton)
+M:6/8
+L:1/8
+O:England; Oxfordshire; Bampton.
+B:Lionel Bacon, A Handbook of Morris Dances
+N:transposed  
+P:A(AB2)4
+K:G
+P:A
+D|G>FG B>AG|A>Bc d>BG|D>cB d>cd|A>FD D>EF|
+G>FG B>AG|A>Bc d>BG|D>cB A>GF|G3 G2 ||
+P:B
+B/c/|d>ed d>F'G'|c>AB c>dc|A>Bc d>ed|G3 F>ED|
+G>FG B>AG|A>Bc d>BG|D>cB A>GF|G3 G2 ||
+
+X: 33
 T:Nutting Girl, The (Bampton)
 M:4/4
 L:1/8
@@ -543,7 +573,7 @@ d2B2|\
 M:4/4
 cdec A2Bc|BcdB    G2AB|c2(3AcA F2D2|G4   G2 ||
 
-X: 32
+X: 34
 T:Nutting Girl, The (Bampton) (alt)
 M:4/4
 L:1/8
@@ -574,7 +604,7 @@ d2B2|\
 M:4/4
 cdec A2c2|BcdB G2AB|(3cdcA2 F2D2|G4 G2 ||
 
-X: 33
+X: 35
 T:Old Tom of Oxford (Bampton)
 M:4/4
 L:1/8
@@ -602,7 +632,7 @@ a2fe|\
 M:4/4
 d2ef g2d2|c2B2 A2ef|g2d2 c2B2|A4 G2||
 
-X: 34
+X: 36
 T:Princess Royal (Bampton)
 M:2/2
 L:1/8
@@ -631,7 +661,7 @@ M:4/4
 L:1/8
 c2B2 A2G2|FGFD B,2dc|B2AG F2d2|G4 G4||
 
-X: 35
+X: 37
 T:Quaker, The (Bampton)
 M:4/4
 L:1/8
@@ -647,7 +677,7 @@ P:B
 FG|A2A2 B3 B|AGFG  A2BA|GFEF G2AG |FEDE F3G|
 A2A2 B3 B|AGFG  A2BA|GFEF GAB^c|d2D2 D2||
 
-X:36
+X: 38
 T:Rigs of Doom (Bampton) (Utrecht)
 M:C
 L:1/4
@@ -665,7 +695,7 @@ P:C
 B/d/ | e e B2 | c/B/ A/c/ B2 | c/B/ A/c/ B/A/ G/B/ | A/G/ F/G/ A>d |
 e e B2 | c/B/ A/c/ B2 | c/B/ A/c/ B/A/ G/B/ | A/D/ E/F/ G3/2 |]
 
-X: 37
+X: 39
 T:Rose Tree, The (Bampton)
 M:4/4
 L:1/8
@@ -681,7 +711,7 @@ P:B
 GA|(3BcBA2 B2c2 |d2g2  d2cB |A2B2 c2d2|efge dcBA|
 G2(3EFE D2B,2|DEDB, D2B,D|G2FG A2GA|B2G2 G2  ||
 
-X:38
+X: 40
 T:Royton, The (Bampton) (Binghamton)
 T:Sullivan's Glenn
 T:Tip Top Polka
@@ -702,7 +732,7 @@ e>f|g2 e2 e>d e>f|g2 d2 B4    |c2  c>B A2G>G|d6e>f|
 W: Oh Glen-n-n, In an hour, I'd like a Glennburger, please.
 W: With tomatoes and lettuce, pickles and onions and cheese.
 
-X: 39
+X: 41
 T:Shave the Donkey (Bampton)
 M:4/4
 L:1/8
@@ -716,7 +746,7 @@ P:A
 P:B
 |:A3 c B2d2|A3 c B2d2|A3 B c2d2|dcBA G4:|
 
-X: 40
+X: 42
 T:Shepherds' Hey (Bampton)
 M:2/2
 L:1/8
@@ -732,7 +762,7 @@ P:B
   B|d2B2 c3d/c/|B2G2 A4  |GBdB c2Bc|d2ef g2a//g//f//e//|
    |d2B2 c3d/c/|B2G2 A4  |GBdB c2Bc|d2D2 G3||
 
-X:41
+X: 43
 T:Simon's Fancy (Bampton) (Lemon & Capers)
 T:The Forester
 M:6/8
@@ -750,7 +780,7 @@ P:B
 z2 | B>cd>B e2 e2 | B>c (3dcB e2 B>c | d2 d2 c2 c2 | B>c B>A F2 G>F |
 E2 B2 B>G (3AGF | E2 E2 d3 e | d3 B A3 F | E2 E2 E2 |]
 
-X: 42
+X: 44
 T:Speed The Plough (Bampton)
 M:2/4
 L:1/8
@@ -765,7 +795,7 @@ P:A
 P:B
 |:g2gg|g4  |g2fe|dBGB|cdec   |BcdB|1A2AA|A4:|2A2F2|G4||
 
-X: 43
+X: 45
 T:Step & Fetch Her (Bampton) (RD from Arnold Woodley)
 M:4/4
 L:1/8
@@ -783,7 +813,7 @@ P:C
 A|B2Bc d2cB|A2AB c2A2|B2Bc d2g2|dcBA G3 A|
   B2Bc d2cB|A2AB c2A2|B2Bc d2g2|fdef g4  ||
 
-X: 44
+X: 46
 T:Step and Fetch Her (Bampton) (Schofield)
 M:4/4
 L:1/8
@@ -799,7 +829,22 @@ P:B
 (3gage2 d3 B|c2d2 e2f2|(3gage2 d3 B|B3 c A2A2|
   g3 e  d2B2|c2d2 e2f2|  g2A2  A2B2|A2G2 G4  ||
 
-X: 45
+X:47
+T:Trunkles
+M:4/4
+O:England; Oxfordshire; Bampton.
+B:Lionel Bacon, A Handbook of Morris Dances
+Z:transcribed by Tom Keays for Thornden Morris.
+R:Hornpipe
+P:A(AB3)4
+K:G
+P:A
+d3 B c2 e2 | d>cB>A B2 G2 | d3 B c2 e2 | d>cB>A G4 :|
+P:B
+B2 B>c d2 g2 | e2 g2 d2 g2 | f2 e>d ^c2 A2 | d6 g>f | e2 c2 c2 e2 |
+d2 B2 B2 e>d | c2 A2 A2 d>c | B2 G2 G2 A>B | c>BA>G F2 A2 | G8 |]
+
+X: 48
 T:Under the Old Myrtle Tree (Bampton)
 M:6/8
 L:1/8
@@ -815,7 +860,7 @@ P:B
 A2A d2d|BAc B2G|EGG e2e|cec cBA|
 ABA dcd|BcB e2d|cec ABc|d3  d3 ||
 
-X: 46
+X: 49
 T:Webley Twizzle (Bampton)
 M:6/8
 L:1/8
@@ -829,7 +874,7 @@ D|GFG AGA|BdB AGA|BAG EAG|FEF G2||
 P:B
 B|d2e dBG|d2e dBG|EAG FED|BAG EAG|FEF G2||
 
-X: 47
+X: 50
 T:Webley Twizzle (Bampton) (alt)
 M:6/8
 L:1/8
@@ -846,7 +891,7 @@ P:B
 B|d>de d>BG|d>de d>BG|E>AG F>ED|E>AG F>ED|
                       B>AG E>AG|F>EF G2  ||
 
-X:48
+X: 51
 T:Yankee Doodle Stick Dance (Bampton) (Binghamton)
 M:4/4
 S:Binghamton MM
@@ -864,7 +909,7 @@ ffga agfe | ddef f2 ee | ffga agfe | ddef e2 dd |]
 P:D
 e>efd ef/g/ fd | ef/g/ fe de A2 | ffga agfe | ddef e2 dd :|
 
-X:49
+X: 52
 T:Year of Jubilo (Bampton) (Binghamton)
 M:2/4
 L:1/8
